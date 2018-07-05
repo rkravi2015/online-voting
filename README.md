@@ -1,6 +1,6 @@
 # online-voting
 This website is developed by using HTML,CSS,JAVA SCRIPT in front end and PHP in back end <br>
-<B>features:</B><br>
+<B>Menu:</B><br>
 In this website the user is led to the index page first. Based on his/her choice he is navigated to:<br>
  Home<br>
   About us<br>
