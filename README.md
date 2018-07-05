@@ -1,35 +1,35 @@
 # online-voting
-This website is developed by using HTML,CSS,JAVA SCRIPT in front end and PHP in back end
-features:
-In this website the user is led to the index page first. Based on his/her choice he is navigated to:
- Home
-  About us
-  Menu
-  Home
-  Signup
-  Login
-  View seats
-  Live seats
-  Contact us
-  Notice Board
-<B>REQUIREMENTS:</B>
-Functional units:
-1.)voter can register for voting by entering their details.
-2.)voter can login to vote and see result of election.
-3.)voter can logout after voting.
-4.)There should be automatic logout after a specific time.
-5.)One voter cant vote for more than one time.
-6.)There should be a portal for live election.
+This website is developed by using HTML,CSS,JAVA SCRIPT in front end and PHP in back end <br>
+<B>features:</B><br>
+In this website the user is led to the index page first. Based on his/her choice he is navigated to:<br>
+ Home<br>
+  About us<br>
+  Menu<br>
+  Home<br>
+  Signup<br>
+  Login<br>
+  View seats<br>
+  Live seats<br>
+  Contact us<br>
+  Notice Board<br><br>
+<B>REQUIREMENTS:</B><br><br>
+Functional units:<br>
+1.)voter can register for voting by entering their details.<br>
+2.)voter can login to vote and see result of election.<br>
+3.)voter can logout after voting.<br>
+4.)There should be automatic logout after a specific time.<br>
+5.)One voter cant vote for more than one time.<br>
+6.)There should be a portal for live election.<br><br>
 
-Non functional units
-1.) voter can view candidates names and details.
-2.)Home page should contain about the site.
-3.)Home page should contain notice board.
-4.)Navigation should be available on every web page.
-5.)Candidate and voter should have different databse table.
-6.)voters can view no of seats in different areas and name of candidate for that seat.
-7.)voters can see election live.
+Non functional units<br>
+1.) voter can view candidates names and details.<br>
+2.)Home page should contain about the site.<br>
+3.)Home page should contain notice board.<br>
+4.)Navigation should be available on every web page.<br>
+5.)Candidate and voter should have different databse table.<br>
+6.)voters can view no of seats in different areas and name of candidate for that seat.<br>
+7.)voters can see election live.<br><br>
 
-NOTE:
-1.) To run this website first run index.php
-2.) i had created tables in phpmyadmin manually(code to create tables is not written)
+NOTE:<br>
+1.) To run this website first run index.php<br>
+2.) i had created tables in phpmyadmin manually(code to create tables is not written)<br>
