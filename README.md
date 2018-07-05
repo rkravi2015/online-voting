@@ -12,7 +12,7 @@ In this website the user is led to the index page first. Based on his/her choice
   Live seats
   Contact us
   Notice Board
-
+<B>REQUIREMENTS:</B>
 Functional units:
 1.)voter can register for voting by entering their details.
 2.)voter can login to vote and see result of election.
